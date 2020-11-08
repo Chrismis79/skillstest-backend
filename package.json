@@ -1,0 +1,26 @@
+{
+  "name": "skillstest-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrismis79/skillstest-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chrismis79/skillstest-backend/issues"
+  },
+  "homepage": "https://github.com/Chrismis79/skillstest-backend#readme",
+  "dependencies": {
+    "@feathersjs/express": "^4.5.10",
+    "@feathersjs/feathers": "^4.5.10",
+    "@feathersjs/socketio": "^4.5.10",
+    "moment": "^2.29.1"
+  }
+}
